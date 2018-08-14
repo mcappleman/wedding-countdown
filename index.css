@@ -1,16 +1,10 @@
 .text-center {
-    position: absolute;
+    position: fixed;
     text-align: center!important;
-    left: 50%;
     top: 50%;
     height: 160px;
-    width: 585px;
-    margin-left: -293px;
+    width: 100%;
     margin-top: -80px;
-}
-
-h2#countdown {
-    font-size: 72px;
 }
 
 .background {
@@ -20,7 +14,7 @@ h2#countdown {
     background-position-x: center;
     height: 718px;
     width: 100%;
-    position: absolute;
+    position: fixed;
     top: 50%;
     margin-top: -359px;
 }
