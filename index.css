@@ -1,0 +1,30 @@
+.text-center {
+    position: absolute;
+    text-align: center!important;
+    left: 50%;
+    top: 50%;
+    height: 160px;
+    width: 585px;
+    margin-left: -293px;
+    margin-top: -80px;
+}
+
+h2#countdown {
+    font-size: 72px;
+}
+
+.background {
+    color: white;
+    background-image: url('./lucas_laura.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    height: 718px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    margin-top: -359px;
+}
+
+body {
+    background-color: #ccc;
+}
